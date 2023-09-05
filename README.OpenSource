@@ -1,0 +1,10 @@
+[
+    {
+        "Name": "chromium_third_party_highway",                   # 上游开源软件名全称
+        "License": "Google"         # 上游开源软件中包含的许可证信息
+        "License File": "LICENSE",      # 许可证所在文件路径
+        "Version Number": "424360251cdcfc314cfc528f53c872ecd63af0f0",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/highway.git@424360251cdcfc314cfc528f53c872ecd63af0f0",   # 上游软件包发布地址
+        "Description": "第三方软件highway"           # 开源软件功能描述
+    }
+]
