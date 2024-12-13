@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "highway",
+        "License": "Apache-2.0",
+        "License File": "LICENSE",
+        "Version Number": "424360251cdcfc314cfc528f53c872ecd63af0f0",
+        "Owner": "huangjiewen2@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/highway.git@424360251cdcfc314cfc528f53c872ecd63af0f0",
+        "Description": "第三方软件highway, 提供了可移植的高性能的SIMD/矢量库"
+    }
+]
