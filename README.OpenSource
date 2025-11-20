@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "highway",
+        "License": "Apache-2.0",
+        "License File": "LICENSE",
+        "Version Number": "424360251cdcfc314cfc528f53c872ecd63af0f0",
+        "Owner": "huamengzheng@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/github.com/google/highway.git@424360251cdcfc314cfc528f53c872ecd63af0f0",
+        "Description": "第三方软件highway,公路智能平台"
+    }
+]
